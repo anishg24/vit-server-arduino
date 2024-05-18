@@ -1,0 +1,53 @@
+body {
+    max-width: 50rem;
+    margin: 0px auto;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+}
+
+.sentence-field {
+    min-height: 5em;
+    background-color: #b5b5b5;
+    border: 5px #444444 dotted;
+    border-radius: 10px;
+    text-align: center;
+    align-content: center;
+}
+
+#answer-field {
+    min-height: 1em;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#tile-field {
+    min-height: 2.5em;
+    background-color: lightblue;
+    border: 5px #003249 dotted;
+    border-radius: 10px;
+    text-align: center;
+    align-content: center;
+}
+
+.tile {
+    background-color: #3498db;
+    color: white;
+    border-radius: 10px;
+    margin: 2px;
+    cursor: grab;
+}
+
+.correct-tile {
+    background-color: var(--bs-green);
+}
+
+.card {
+    margin: 0 auto;
+    float: none;
+}

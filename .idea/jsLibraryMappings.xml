@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/BluetoothSerial/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/DNSServer/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/EEPROM/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/ESPmDNS/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/Ethernet/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/FFat/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/FS/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/HTTPUpdate/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/I2S/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/Insights/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/LittleFS/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/NetBIOS/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/Preferences/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/RainMaker/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/SD/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/SD_MMC/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/SPIFFS/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/SimpleBLE/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/Ticker/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/USB/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/Update/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src" libraries="{bootstrap, dragula}" />
+    <file url="file://$PROJECT_DIR$" libraries="{bootstrap, dragula}" />
+  </component>
+</project>
